@@ -1,6 +1,6 @@
 /*
  * Ficheiro: proj2.c
- * Autor: Joao Afonso Alves Henriques e Silva
+ * Autor: Joao Afonso Silva
  * Descricao: 2o Projeto em C para IAED : 
  *  Sistema de Gestão de uma Base de Dados de Jogos de Futebol Amigáveis
 */
